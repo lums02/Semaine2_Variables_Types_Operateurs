@@ -31,11 +31,11 @@ Objectif global : construire progressivement un pipeline complet (Python → SQL
 
 ### 📂 Structure du dépôt
 
-Semaine2_Variables_Types_Operateurs/
-│── README.md
-│── exercice1_fiche_patient/
-│   └── semaine2_exercice1_sante.py
-│── ressources/ (optionnel : données PDF, consignes)
+Semaine2_Variables_Types_Operateurs/ <br>
+│── README.md <br>
+│── exercice1_fiche_patient/ <br>
+│   └── semaine2_exercice1_sante.py <br>
+│── ressources/ (optionnel : données PDF, consignes) <br>
 
 
 
@@ -59,6 +59,7 @@ Semaine2_Variables_Types_Operateurs/
 1. Cloner le dépôt :
    ```bash
    git clone https://github.com/ton-compte/Semaine2_Variables_Types_Operateurs.git
+   ```
 2. Se placer dans le dossier :
   ```bash
   cd Semaine2_Variables_Types_Operateurs
