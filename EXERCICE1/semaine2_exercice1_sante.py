@@ -1,8 +1,8 @@
 # ============================================================ 
 # AKIENI ACADEMY — Projet Sante Publique 
 # Semaine 2 — Exercice 1 : Fiche Patient CHU Brazzaville 
-# Votre nom : _______________________________________________ 
-# Date      : _______________________________________________ 
+# Votre nom : LUMEYA KWIVANGANA Exaucée 
+# Date      : 25/06/2026
 # ============================================================ 
  
 # --- SECTION 1 : VARIABLES PATIENT --- 

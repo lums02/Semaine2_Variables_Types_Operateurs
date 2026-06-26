@@ -1,6 +1,8 @@
 # ============================================================ 
 # AKIENI ACADEMY — Projet Sante Publique 
 # Semaine 2 — Exercice 2 : KPIs Sanitaires OMS 
+# Votre nom : LUMEYA KWIVANGANA Exaucée
+# Date      : 25/06/2026
 # ============================================================ 
  
 # --- DONNEES BRUTES --- 
@@ -16,7 +18,7 @@ population_dept      = 128_000
 taux_eur_fcfa        = 655.957 
 taux_usd_fcfa        = 600.0 
  
-# --- A COMPLETER --- 
+
 # 1. Conversions devises 
 budget_eur = 87450_000 / taux_eur_fcfa
 budget_usd = 87450_000 / taux_usd_fcfa
